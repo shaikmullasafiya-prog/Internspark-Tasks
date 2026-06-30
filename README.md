@@ -1,6 +1,5 @@
 # Internspark-Tasks
 InternSpark Machine Learning Internship Portfolio
-Candidate Information
 Name: Shaik Mulla Safiya
 Domain: Machine Learning Intern
 Repository Structure
